@@ -1,0 +1,5 @@
+Flask==0.12.2
+gunicorn==19.7.1
+itsdangerous==0.24
+Jinja2==2.9.6
+wikipedia==1.4.0
